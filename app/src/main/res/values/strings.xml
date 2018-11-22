@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="schedule_name">Занятие: %s</string>
+    <string name="start_time">Время начала: %s</string>
+    <string name="end_time">Время окончания: %s</string>
+    <string name="teacher">Преподаватель: %s</string>
+    <string name="description">Описание: %s</string>
+    <string name="place">Место проведения: %s</string>
+    <string name="week_day">День недели: %s</string>
+    <string name="error">Ошибка при загрузке расписания</string>
+</resources>
